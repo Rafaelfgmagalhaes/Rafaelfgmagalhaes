@@ -6,7 +6,6 @@
 - ✉ Email: rafaelfgmagalhaes@gmail.com
 - 😄 Pronomes: ele/dele
 
-<img align="right" height="30" width="40" src="" />
 
 ##
 
