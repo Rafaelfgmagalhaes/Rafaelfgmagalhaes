@@ -29,6 +29,7 @@
 
 ##
 
-  ![Snake animation](https://github.com/Rafaelfgmagalhaes/Rafaelfgmagalhaes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Rafaelfgmagalhaes/Rafaelfgmagalhaes/blob/output/github-contribution-grid-snake.svg)<img height="160" width="130" src="https://github.com/Rafaelfgmagalhaes/Rafaelfgmagalhaes/blob/main/logica-de-programacao-blog.webp" />
+
 
  </div>
