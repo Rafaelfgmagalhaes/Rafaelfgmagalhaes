@@ -4,6 +4,8 @@
 - 💻📱🖥 Atualmente estudante de **Análise e Desenvolvimento de Sistemas**
 - 📕📚📃 Estudando Algoritmos e Linguaguem de programação C e HTML/CSS/JS
 - ✉📨📭 Email: rafaelfgmagalhaes@gmail.com
+
+<img height="160" width="130" src="https://github.com/Rafaelfgmagalhaes/Rafaelfgmagalhaes/blob/main/octocat-1658592555303.png" /><img align="right" height="160" width="650" src="https://github.com/Rafaelfgmagalhaes/Rafaelfgmagalhaes/blob/main/HelloWorld.png" />
  
 
 
