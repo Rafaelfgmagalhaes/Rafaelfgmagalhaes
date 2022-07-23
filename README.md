@@ -29,7 +29,7 @@
 
 ##
 
-  ![Snake animation](https://github.com/Rafaelfgmagalhaes/Rafaelfgmagalhaes/blob/output/github-contribution-grid-snake.svg)<img height="160" width="130" src="https://github.com/Rafaelfgmagalhaes/Rafaelfgmagalhaes/blob/main/octocat-1658592555303.png" /><img align="right" height="160" width="730" src="https://github.com/Rafaelfgmagalhaes/Rafaelfgmagalhaes/blob/main/HelloWorld.png" />
+  ![Snake animation](https://github.com/Rafaelfgmagalhaes/Rafaelfgmagalhaes/blob/output/github-contribution-grid-snake.svg)<img height="160" width="130" src="https://github.com/Rafaelfgmagalhaes/Rafaelfgmagalhaes/blob/main/octocat-1658592555303.png" /><img align="right" height="160" width="650" src="https://github.com/Rafaelfgmagalhaes/Rafaelfgmagalhaes/blob/main/HelloWorld.png" />
 
 
  </div>
