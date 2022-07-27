@@ -2,7 +2,7 @@
 
 
 - 💻📱🖥 Atualmente estudante de **Análise e Desenvolvimento de Sistemas**
-- 📕📚📃 Estudando Algoritmos e Linguaguem de programação C e HTML/CSS/JS
+- 📕📚📃 Estudando Algoritmos, Linguaguem de programação C e HTML/CSS/JS
 - ✉📨📭 Email: rafaelfgmagalhaes@gmail.com
 
 ##
