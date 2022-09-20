@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://github.com/Rafaelfgmagahaes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=Rafaelfgmagalhaes&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rafaelfgmagalhaes&count_private=true&theme=outrun"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelfgmagalhaes&layout=compact&langs_count=7&theme=outrun"/>
 </div>
   
@@ -38,5 +38,6 @@
 
   ![Snake animation](https://github.com/Rafaelfgmagalhaes/Rafaelfgmagalhaes/blob/output/github-contribution-grid-snake.svg)
  </div>
+ 
  
  
