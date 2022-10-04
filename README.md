@@ -18,9 +18,9 @@
 ##  
 
 <div style="display: inline_block">
-<img align="center" height="300" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" />
-<img align="center" height="300"  src="https://media.giphy.com/media/AHcEGB5nuIALBqKWjp/giphy.gif" />
-<img align="center" width="300" height="300"  src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" />
+<img align="center" height="250" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" />
+<img align="center" height="250"  src="https://media.giphy.com/media/AHcEGB5nuIALBqKWjp/giphy.gif" />
+<img align="center" width="250" height="250"  src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" />
 </div>
 
 ##  
