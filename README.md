@@ -15,12 +15,15 @@
 
 </div>  
 
-##
+##  
 
-<img align="center" height="160" width="650" src="https://github.com/Rafaelfgmagalhaes/Rafaelfgmagalhaes/blob/main/HelloWorld.png" />  
+<div style="display: inline_block">
+<img align="center" height="300" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" />
+<img align="center" height="300"  src="https://media.giphy.com/media/AHcEGB5nuIALBqKWjp/giphy.gif" />
+<img align="center" width="300" height="300"  src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" />
+</div>
 
-##
-
+##  
 <div align="center">
   <a href="https://github.com/Rafaelfgmagahaes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rafaelfgmagalhaes&count_private=true&theme=outrun"/>
