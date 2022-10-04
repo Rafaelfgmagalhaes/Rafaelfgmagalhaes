@@ -1,12 +1,17 @@
-### **Olá sou Rafael**
+### **Olá sou Rafael**  
 
+<div align="left">  
+<img height="160" width="130" align="right" src="https://github.com/Rafaelfgmagalhaes/Rafaelfgmagalhaes/blob/main/octocat-1658592555303.png" />  
 
 - 💻📱🖥 Atualmente estudante de **Análise e Desenvolvimento de Sistemas**
 - 📕📚📃 Estudando Algoritmos, Linguaguem de programação C e HTML/CSS/JS
-- ✉📨📭 Email: rafaelfgmagalhaes@gmail.com
+- ✉📨📭 Email: rafaelfgmagalhaes@gmail.com  
+
 <br>
 <a href="https://www.linkedin.com/in/rafaelfgmagalhaes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/raafael023/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+</div>
 
 ##
 
