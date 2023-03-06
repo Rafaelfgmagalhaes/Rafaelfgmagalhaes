@@ -1,21 +1,23 @@
 <div align="left">  
 
-### **Olá sou Rafael**  
-
+<h1>Olá sou Rafael</h1>
+  
 <div align="right"><img height="160" width="130" align="right" src="https://github.com/Rafaelfgmagalhaes/Rafaelfgmagalhaes/blob/main/octocat-1658592555303.png"/></div>  
-
 
 - 💻📱🖥 Atualmente estudante de **Análise e Desenvolvimento de Sistemas**
 - 📕📚📃 Estudando Algoritmos, Linguaguem de programação C e HTML/CSS/JS
-- ✉📨📭 Email: rafaelfgmagalhaes@gmail.com  
+- ✉📨📭 Email: rafaelfgmagalhaes@gmail.com
 
+  
 <br>
-<a href="https://www.linkedin.com/in/rafaelfgmagalhaes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center">
+ <a href="https://www.linkedin.com/in/rafaelfgmagalhaes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/raafael023/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
+</div>
+  
 </div>  
 
-##  
+<hr>  
 
 <div style="display: inline_block">
 <img align="center" height="250" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" />
@@ -23,14 +25,14 @@
 <img align="center" width="250" height="250"  src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" />
 </div>
 
-##  
+<hr>  
 <div align="center">
   <a href="https://github.com/Rafaelfgmagahaes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rafaelfgmagalhaes&count_private=true&theme=outrun"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelfgmagalhaes&layout=compact&langs_count=7&theme=outrun"/>
 </div>
   
-##  
+<hr>  
 
 <div style="display: inline_block">
 <img align="center" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -43,7 +45,7 @@
 <img align="center" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div><br>
 
-##
+<hr>
 
   ![Snake animation](https://github.com/Rafaelfgmagalhaes/Rafaelfgmagalhaes/blob/output/github-contribution-grid-snake.svg)
  </div>
