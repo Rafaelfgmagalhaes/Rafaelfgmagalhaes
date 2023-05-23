@@ -27,8 +27,6 @@
 <br>
 <br>  
   
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rafaelfgmagalhaes&bg_color=006400&color=FFFAFA&line=FFFAFA&point=FFFAFA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
-  
 <div align="center">
   
  ![Snake animation](https://github.com/Rafaelfgmagalhaes/Rafaelfgmagalhaes/blob/output/github-contribution-grid-snake.svg)
